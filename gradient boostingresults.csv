@@ -1,0 +1,2 @@
+Model,Dataset,Accuracy,Precision,Recall,F1_Score,ROC_AUC,Audit_Average_Precision
+Gradient Boosting,Notebook test split (not audit set),0.768,0.7463,0.6228,0.679,0.8196,Not calculated in notebook
